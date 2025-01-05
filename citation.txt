@@ -1,0 +1,8 @@
+@inproceedings{REPO133,
+    author = "Wu, Siyu and Abdulghani, Amir M and Ansari, Shuja and Imran, Muhammad Ali and Abbasi, Qammer H",
+    booktitle = "2020 International Conference on UK-China Emerging Technologies (UCET)",
+    organization = "IEEE",
+    pages = "1--4",
+    title = "{IoT enabled Smart Lighting System using STM32 microcontroller with high performance ARM{\textregistered} Cortex{\textregistered}-M3 core}",
+    year = "2020"
+}
